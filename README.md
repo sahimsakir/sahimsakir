@@ -1,3 +1,12 @@
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
+
 
 Dedicated and efficient full stack developer with 2+ years of experience in application layers, presentation layers, and databases. Certified in BSc. in Computer Science & Engineering. Spearheaded successful in using Laravel Framework for full-stack development version control and server. Seeking to further improve Node.js, Django and MERN skills as the future full stack developer at Atmospheric Solutions.
 
