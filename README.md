@@ -1,13 +1,5 @@
 Dedicated and efficient full stack developer with 2+ years of experience in application layers, presentation layers, and databases. Certified in BSc. in Computer Science & Engineering. Spearheaded successful in using Laravel Framework for full-stack development version control and server. Seeking to further improve Node.js, Django and MERN skills as the future full stack developer at Atmospheric Solutions.
 
-<h3>Connect with me:</h3>
-<p>
-  <a href="https://sahimsakir.github.io/Portfolio/" target="_blank"><img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
-  <a href="https://www.facebook.com/sahim.sakir.chy" target="_blank"><img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
-   <a href="https://www.linkedin.com/in/sahim-sakir-443459141/" target="_blank"><img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-  <a href="https://www.instagram.com/sahimsakir/" target="_blank"><img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-</p>
-<br/><br/>
 
 Web Technologies: HTML5, CSS3, XHTML, AJAX, jQuery, Bootstrap
 
@@ -79,3 +71,11 @@ Environment: REST API, PHP 5.4/7, HTML5, XHTML, CSS, AJAX, JavaScript, MySQL, Ap
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 <hr>
+
+<h3>Connect with me:</h3>
+<p>
+  <a href="https://sahimsakir.github.io/Portfolio/" target="_blank"><img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+  <a href="https://www.facebook.com/sahim.sakir.chy" target="_blank"><img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+   <a href="https://www.linkedin.com/in/sahim-sakir-443459141/" target="_blank"><img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+  <a href="https://www.instagram.com/sahimsakir/" target="_blank"><img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+</p>
