@@ -5,7 +5,7 @@ Web Technologies: HTML5, CSS3, XHTML, AJAX, jQuery, Bootstrap
 
 JavaScript Libraries: Node.js, Three.js
 
-Frameworks: Laravel 8, Django
+Frameworks: Laravel 9, Django
 
 Tools: Eclipse 4.7, IDE, Notepad++, Visual Code, PyCharm, Sublime Text 3
 
