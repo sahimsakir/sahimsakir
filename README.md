@@ -1,11 +1,11 @@
-Dedicated and efficient full stack developer with 2+ years of experience in application layers, presentation layers, and databases. Certified in BSc. in Computer Science & Engineering. Spearheaded successful in using Laravel Framework for full-stack development version control and server. Seeking to further improve Node.js, Django and MERN skills as the future full stack developer at Atmospheric Solutions.
+Dedicated and efficient full stack developer with 3+ years of experience in application layers, presentation layers, and databases. Certified in BSc. in Computer Science & Engineering. Spearheaded successful in using Laravel Framework for full-stack development version control and server. Seeking to further improve Node.js, Django and MERN skills as the future full stack developer at Atmospheric Solutions.
 
 
 Web Technologies: HTML5, CSS3, XHTML, AJAX, jQuery, Bootstrap
 
-JavaScript Libraries: Node.js, Three.js
+JavaScript Libraries: Node.JS, Three.JS, Vue.JS
 
-Frameworks: Laravel 9, Django
+Frameworks: Laravel 5/10
 
 Tools: Eclipse 4.7, IDE, Notepad++, Visual Code, PyCharm, Sublime Text 3
 
@@ -23,7 +23,7 @@ Programming: PHP, OOP, C, C++, Java, C#
 
 Other Tools: Adobe Creative Suite, MS Office, Windows Movie Maker, AutoCAD
 
-Environment: REST API, PHP 5.4/7, HTML5, XHTML, CSS, AJAX, JavaScript, MySQL, Apache, MVC Frame Work, jQuery, CSS.
+Environment: REST API, PHP 5.4/8, HTML5, XHTML, CSS3, AJAX, JavaScript, MySQL, Apache, MVC Frame Work, jQuery, CSS.
 
 <h3>Tools</h3>
 <hr>
